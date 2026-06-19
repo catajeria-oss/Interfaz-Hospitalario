@@ -32,7 +32,7 @@ El sistema cuenta con un control de acceso basado en roles (RBAC) que divide las
 
 ---
 
-## Capturas de Pantalla
+## Imágenes
 
 ### Sistema de Autenticación de Usuarios (Login)
 ![Login](./Captura%20de%20pantalla%202026-06-18%20215646.png)
